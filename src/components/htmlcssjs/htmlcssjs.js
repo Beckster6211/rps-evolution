@@ -67,8 +67,8 @@ function HtmlCssJs() {
           </a>
           <p className="projectText">
             Just click the button of which option you want as your choice and
-            the the computers option will be shown. As well as seeing a comment
-            of the outcome you also see if you get the point.
+            the computers option will be shown. As well as seeing a comment of
+            the outcome you also see if you get the point.
           </p>
           <p className="projectText">
             This is like a take away version of a meal hot and fresh, a treat,
