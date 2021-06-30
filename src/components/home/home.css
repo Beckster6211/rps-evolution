@@ -1,0 +1,366 @@
+.home {
+  /* min-height: 100vh;
+  background-color: darkgray; */
+  padding: 1%;
+}
+.title {
+  font-size: 2.5rem;
+  padding: 1%;
+  text-decoration: underline;
+}
+
+.projectText {
+  font-size: 1.1rem;
+}
+
+.history {
+  border: solid black;
+  border-radius: 5px;
+  margin: 2%;
+  padding: 1%;
+}
+
+.historyTitle {
+  text-decoration: underline;
+  font-size: 2rem;
+}
+
+.historySubtitle {
+  font-size: 1.1rem;
+}
+
+.historyText {
+  font-size: 1.1rem;
+}
+
+.slugFrogSnake {
+  font-size: 1.1rem;
+}
+
+.slugFrogSnakeImage {
+  float: right;
+  padding: 1%;
+  width: 20%;
+  height: auto;
+}
+
+.kitsuneText {
+  text-align: center;
+  font-size: 1.1rem;
+}
+.kitsuneImage {
+  float: left;
+  padding: 1%;
+  width: 20%;
+  height: auto;
+}
+
+.mushi-ken {
+  text-align: left;
+}
+
+.kitsune-ken {
+  text-align: left;
+  list-style-position: inside;
+}
+
+.funFact {
+  border: solid black;
+  border-radius: 5px;
+  margin: 2%;
+  padding: 1%;
+}
+
+.funFactTitle {
+  text-decoration: underline;
+  font-size: 2rem;
+}
+
+.funFactList {
+  text-align: left;
+  font-size: 1.1rem;
+}
+
+.funFactFact {
+  list-style-type: none;
+}
+
+@media only screen and (max-width: 575px) {
+  .title {
+    font-size: 1.2rem;
+    padding: 1%;
+    text-decoration: underline;
+  }
+
+  .projectText {
+    font-size: 0.8rem;
+  }
+
+  .historyTitle {
+    text-decoration: underline;
+    font-size: 1rem;
+  }
+
+  .historySubtitle {
+    font-size: 0.9rem;
+  }
+
+  .historyText {
+    font-size: 0.8rem;
+  }
+
+  .slugFrogSnake {
+    padding-left: 1%;
+    text-align: left;
+    font-size: 0.8rem;
+  }
+
+  .slugFrogSnakeImage {
+    float: right;
+    padding: 1%;
+    width: 30%;
+    height: auto;
+  }
+
+  .kitsuneText {
+    padding-left: 1%;
+    text-align: left;
+    font-size: 0.8rem;
+  }
+
+  .kitsuneImage {
+    float: left;
+    padding: 1%;
+    width: 29%;
+    height: auto;
+  }
+
+  .kitsune-ken {
+    text-align: left;
+    list-style-position: inside;
+  }
+
+  .funFactTitle {
+    text-decoration: underline;
+    font-size: 1rem;
+  }
+
+  .funFactList {
+    text-align: left;
+    font-size: 0.8rem;
+  }
+
+  .funFactFact {
+    list-style-type: none;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 745px) {
+  .title {
+    font-size: 1.5rem;
+    padding: 1%;
+    text-decoration: underline;
+  }
+
+  .projectText {
+    font-size: 1.1rem;
+  }
+
+  .historyTitle {
+    text-decoration: underline;
+    font-size: 1.3rem;
+  }
+
+  .historySubtitle {
+    font-size: 1.2rem;
+  }
+
+  .historyText {
+    font-size: 1.1rem;
+  }
+
+  .slugFrogSnake {
+    padding-left: 1%;
+    text-align: left;
+    font-size: 1.1rem;
+  }
+
+  .slugFrogSnakeImage {
+    float: right;
+    padding: 1%;
+    width: 30%;
+    height: auto;
+  }
+
+  .kitsuneText {
+    padding-left: 1%;
+    text-align: left;
+    font-size: 1.1rem;
+  }
+
+  .kitsuneImage {
+    float: left;
+    padding: 1%;
+    width: 29%;
+    height: auto;
+  }
+
+  .kitsune-ken {
+    text-align: left;
+    list-style-position: inside;
+  }
+
+  .funFactTitle {
+    text-decoration: underline;
+    font-size: 1.3rem;
+  }
+
+  .funFactList {
+    text-align: left;
+    font-size: 1.1rem;
+  }
+
+  .funFactFact {
+    list-style-type: none;
+  }
+}
+
+@media only screen and (min-width: 746px) and (max-width: 900px) {
+  .title {
+    font-size: 2rem;
+    padding: 1%;
+    text-decoration: underline;
+  }
+
+  .projectText {
+    font-size: 1.3rem;
+  }
+
+  .historyTitle {
+    text-decoration: underline;
+    font-size: 1.7rem;
+  }
+
+  .historySubtitle {
+    font-size: 1.6rem;
+  }
+
+  .historyText {
+    font-size: 1.3rem;
+  }
+
+  .slugFrogSnake {
+    padding-left: 1%;
+    text-align: left;
+    font-size: 1.3rem;
+  }
+
+  .slugFrogSnakeImage {
+    float: right;
+    padding: 1%;
+    width: 33%;
+    height: auto;
+  }
+
+  .kitsuneText {
+    padding-left: 1%;
+    text-align: left;
+    font-size: 1.3rem;
+  }
+
+  .kitsuneImage {
+    float: left;
+    padding: 1%;
+    width: 38%;
+    height: auto;
+  }
+
+  .kitsune-ken {
+    text-align: left;
+    list-style-position: inside;
+  }
+
+  .funFactTitle {
+    text-decoration: underline;
+    font-size: 1.7rem;
+  }
+
+  .funFactList {
+    text-align: left;
+    font-size: 1.3rem;
+  }
+
+  .funFactFact {
+    list-style-type: none;
+  }
+}
+
+@media only screen and (min-width: 901px) {
+  .title {
+    font-size: 2rem;
+    padding: 1%;
+    text-decoration: underline;
+  }
+
+  .projectText {
+    font-size: 1.3rem;
+  }
+
+  .historyTitle {
+    text-decoration: underline;
+    font-size: 1.7rem;
+  }
+
+  .historySubtitle {
+    font-size: 1.6rem;
+  }
+
+  .historyText {
+    font-size: 1.3rem;
+  }
+
+  .slugFrogSnake {
+    padding-left: 1%;
+    text-align: left;
+    font-size: 1.3rem;
+  }
+
+  .slugFrogSnakeImage {
+    float: right;
+    padding: 1%;
+    width: 33%;
+    height: auto;
+  }
+
+  .kitsuneText {
+    padding-left: 1%;
+    text-align: left;
+    font-size: 1.3rem;
+  }
+
+  .kitsuneImage {
+    float: left;
+    padding: 1%;
+    width: 33%;
+    height: auto;
+  }
+
+  .kitsune-ken {
+    text-align: left;
+    list-style-position: inside;
+  }
+
+  .funFactTitle {
+    text-decoration: underline;
+    font-size: 1.7rem;
+  }
+
+  .funFactList {
+    text-align: left;
+    font-size: 1.3rem;
+  }
+
+  .funFactFact {
+    list-style-type: none;
+  }
+}
