@@ -26,7 +26,7 @@ function Home() {
           book, the game was called shoushiling.
           <br />
           Japanese history frequently references sansukumi-ken, meaning ken
-          (fist) games where <i>
+          (fist ✊) games where <i>
             "the three who are afraid of one another"
           </i>{" "}
           (i.e. A beats B, B beats C, and C beats A). This type of game
@@ -42,9 +42,9 @@ function Home() {
           />
           <ul className="mushi-ken">
             In mushi-ken:
-            <li>"Slug" (represented by little finger)</li>
-            <li>"Frog" (represented by thumb)</li>
-            <li>"Snake" (represented by index finger)</li>
+            <li>"Slug" (represented by little finger)🐌</li>
+            <li>"Frog" (represented by thumb)🐸</li>
+            <li>"Snake" (represented by index finger)🐍</li>
           </ul>
           Frog beats slug, slug beats snake and snake beats frog.
         </p>
@@ -60,9 +60,9 @@ function Home() {
           />
           <ul className="kitsune-ken">
             In kitsune-ken:
-            <li>Supernatural fox "Kitsune"</li>
-            <li>Village Head</li>
-            <li>Hunter</li>
+            <li>Supernatural fox "Kitsune" 🦊</li>
+            <li>Village Head👑</li>
+            <li>Hunter🏹</li>
           </ul>
           <br />
           Fox beats village head, village head beats hunter and hunter beats
@@ -82,28 +82,29 @@ function Home() {
           <li className="funFactFact">
             - America 2006 a lengthy case was being held to decide the location
             of a deposition trial and the judge cut it short by ordering that it
-            be decided by the two sides play Rock paper scissors.
+            be decided by the two sides play rock paper scissors.
           </li>
           <li className="funFactLabel">
-            Rock paper scissors has been used by an auction 🖼️
+            Rock paper scissors has been used by auction houses 🖼️
           </li>
           <li className="funFactFact">
             - 2005 when a Japanese CEO was auctioning off some original art work
             (Cezanne, Picasso, Van Gogh...) he didn't want to separate the work
             between the two auction houses he had approached (Sothebys and
-            Christies). Rock paper scissors would decide which auction house,
-            Christie's director got advice from 11 year old twin daughters to
-            pick "scissors" and Sotheby's chanced "paper". Christie's sold the
-            $20 million collection and earned millions in commission.{" "}
+            Christies). Rock paper scissors would decide which auction house
+            would sell them. Christie's director got advice from 11 year old
+            twin daughters to pick "scissors" and Sotheby's chanced "paper".
+            Christie's sold the $20 million collection and earned millions
+            themselves in commission.{" "}
           </li>
           <li className="funFactLabel">
             Rock paper scissors has been used in football ⚽
           </li>
           <li className="funFactFact">
             - 2018 FA Womens Super League the referee realised that didn't have
-            a coin to decide the team kick off, had the team captains play rock
-            paper scissors instead, the ref was suspended for three weeks (bit
-            harsh if you ask me).
+            a coin to decide the team kick off and had the team captains play
+            rock paper scissors instead, the ref was suspended for three weeks
+            (bit harsh if you ask me).
           </li>
           <li className="funFactLabel">Everyone/anyone can play? 🐒</li>
           <li className="funFactFact">
