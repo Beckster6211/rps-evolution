@@ -39,7 +39,9 @@ This version I converted the previous into React using some of the same logic bu
 
 ### Rock Paper Scissors Evolution 💡
 
-I combined all the versions into one project making this a cool way of being able to track my own progress, skills and knowledge. Version 1 is like a ready meal. Version 2 is like a takeaway. Version 3 is like eating at a restaurant.
+I combined all the versions into one project making this a cool way of being able to track my own progress, skills and knowledge.
+<br/>
+Version 1 is like a ready meal. Version 2 is like a takeaway. Version 3 is like eating at a restaurant 😁
 
 #### Making this 🧰 🛠️
 
@@ -58,6 +60,10 @@ For some framework css help
 Bootstrap
 <br/>
 <img src = "./public/bootstrap.png" width = "150px" height = "100px" alt = "bootstrap logo"/>
+
+### Want to have a look 👀
+
+https://blj-rps-evolution.netlify.app/
 
 ## Thanks 👍
 
