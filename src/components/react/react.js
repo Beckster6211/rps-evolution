@@ -1,3 +1,5 @@
+import "./react.css";
+
 function ReactVersion() {
   return (
     <div className="react">
