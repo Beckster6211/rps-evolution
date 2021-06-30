@@ -16,8 +16,8 @@ function ReactVersion() {
           <br />
           <br />
           This is the HTML CSS JS version (version 2) of the original hackathon
-          that did (version 1) but this has been made using react for quicker
-          and better building and still rendering 💪.
+          that did (version 1) but this has been made using React (version 3)
+          for quicker and better building and improved rendering 💪.
           <br />
           <br />
           This version still uses buttons in prder to select the player option
