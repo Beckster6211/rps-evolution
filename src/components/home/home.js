@@ -43,7 +43,7 @@ function Home() {
           <ul className="mushi-ken">
             In mushi-ken:
             <li>
-              "Slug" (represented by little finger) 🐌 <i>I know its snail</i>
+              "Slug" (represented by little finger) 🐌 <i>I know its a snail</i>
             </li>
             <li>"Frog" (represented by thumb) 🐸</li>
             <li>"Snake" (represented by index finger) 🐍</li>
