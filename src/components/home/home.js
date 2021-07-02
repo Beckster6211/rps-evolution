@@ -42,9 +42,11 @@ function Home() {
           />
           <ul className="mushi-ken">
             In mushi-ken:
-            <li>"Slug" (represented by little finger)🐌</li>
-            <li>"Frog" (represented by thumb)🐸</li>
-            <li>"Snake" (represented by index finger)🐍</li>
+            <li>
+              "Slug" (represented by little finger) 🐌 <i>I know its snail</i>
+            </li>
+            <li>"Frog" (represented by thumb) 🐸</li>
+            <li>"Snake" (represented by index finger) 🐍</li>
           </ul>
           Frog beats slug, slug beats snake and snake beats frog.
         </p>
@@ -61,8 +63,10 @@ function Home() {
           <ul className="kitsune-ken">
             In kitsune-ken:
             <li>Supernatural fox "Kitsune" 🦊</li>
-            <li>Village Head👑</li>
-            <li>Hunter🏹</li>
+            <li>
+              Village Head 👑 <i>no chief icon</i>
+            </li>
+            <li>Hunter 🏹</li>
           </ul>
           <br />
           Fox beats village head, village head beats hunter and hunter beats

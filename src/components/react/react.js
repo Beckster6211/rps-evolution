@@ -20,19 +20,19 @@ function ReactVersion() {
           for quicker and better building and improved rendering 💪.
           <br />
           <br />
-          This version still uses buttons in prder to select the player option
-          making play easier, and much more friendly buttons (as well as refresh
+          This version still uses buttons in order to select the player option
+          making play easier, and much more friendly (as well as a refresh
           button which reset all the scores and comments instead of having to
           refresh the whole page) 🖱️.
           <br />
           <br />
-          This version has alerts and prompts removed no longer allowing the
-          player to input their name (but I may look at putting those back in
-          🤔).
+          This version the alerts and prompts are removed, no longer allowing
+          the player to input their name (but I may look at putting those back
+          in 🤔).
           <br />
           <br />
           This also has different css and styling 🎨 (mainly to differentiate
-          from version) as well as media queries for different devices 📱 💻
+          from version 2) as well as media queries for different devices 📱 💻
         </p>
         <div>
           <h4 className="projectText">
@@ -68,8 +68,8 @@ function ReactVersion() {
           </p>
           <p className="projectText">
             This is like going to restuarant for a meal hot and fresh, a treat,
-            still tasty but different made by a chef (the analogy will make
-            sense if you do read the others) 👩‍🍳
+            still tasty but different, <i>special</i> made by a chef (the
+            analogy will make sense if you do read the others) 👩‍🍳
           </p>
         </div>
       </div>

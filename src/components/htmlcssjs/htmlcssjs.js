@@ -5,7 +5,7 @@ function HtmlCssJs() {
     <div className="htmlcssjs">
       <div>
         {" "}
-        <h2 className="title">HtmlCssJs</h2>
+        <h2 className="title">Html Css Js</h2>
       </div>
       <div className="project">
         <p className="projectText">
@@ -22,9 +22,9 @@ function HtmlCssJs() {
           <br />
           This makes the user playing the game easier and better as in order to
           pick the options it is no longer an input field that you have to type
-          into, that has been replace with a much more friendly buttons (as well
-          as refresh button which reset all the scores and comments instead of
-          having to refresh the whole page) 🖱️.
+          into, that has been replaced with a much more friendly buttons (as
+          well as refresh button which reset all the scores and comments instead
+          of having to refresh the whole page) 🖱️.
           <br />
           <br />
           This version still uses dom manipluation to diplay the results but in
@@ -35,8 +35,8 @@ function HtmlCssJs() {
           their name 🙋‍♀️.
           <br />
           <br />
-          This also has very much better css and styling as well as media
-          queries for different devices🎨
+          This also has much better css and styling as well as media queries for
+          different devices🎨
         </p>
         <div>
           <h4 className="projectText">

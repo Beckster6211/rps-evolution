@@ -23,8 +23,9 @@ function Hackathon() {
           <br />
           <br />
           This is the game that managed to create, although it is not in its
-          truest form (4 1/2 days coding experience). As the original hackathon
-          the game only worked in the console not as part of the screen 🤔.
+          truest form (4<sup>1</sup>&frasl;
+          <sub>2</sub> days coding experience). As the original hackathon the
+          game only worked in the console not as part of the screen 🤔.
           <br />
           <br />
           One of the task with creating the game was dom manipulation and I have
